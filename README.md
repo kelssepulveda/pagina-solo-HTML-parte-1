@@ -1,5 +1,5 @@
-# pagina-solo-HTML-parte-1
-Crear una pagina web de una tienda ZApatilla segunda parte :)
+# pagina-solo-HTML-part1 zapatilla
+ESta es la segunda parte de la zapatilla html pero actualizada graciaaaaas....!
 <!DOCTYPE html>
 <html lang="en">
 <head>

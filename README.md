@@ -1,5 +1,5 @@
 # pagina-solo-HTML-parte-1
-Crear una pagina web de una tienda arboles plantas
+Crear una pagina web de una tienda ZApatilla segunda parte :)
 <!DOCTYPE html>
 <html lang="en">
 <head>
